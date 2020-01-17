@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">util</string>
+    <string name="firstLab">我是来自第一个aar的信息</string>
+</resources>
